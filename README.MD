@@ -13,19 +13,19 @@ A collection of open-source & self-hosted Discord bots.
 
 ## Multi-purpose
 
-| Name    | Description                                    | Homepage                                                                    |
-| ------- | ---------------------------------------------- | --------------------------------------------------------------------------- |
-| Egglord | A fully customizable bot built with discord.js | [Spiderjockey02/Discord-Bot](https://github.com/Spiderjockey02/Discord-Bot) |
-| Loritta | A fully customizable bot built with discord.js | [LorittaBot/Loritta](https://github.com/LorittaBot/Loritta)                 |
+| Name    | Description                                    | Homepage                                                                    | Language                                                                                                                   |
+| ------- | ---------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Egglord | A fully customizable bot built with discord.js | [Spiderjockey02/Discord-Bot](https://github.com/Spiderjockey02/Discord-Bot) | ![Language](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
+| Loritta | A fully customizable bot built with discord.js | [LorittaBot/Loritta](https://github.com/LorittaBot/Loritta)                 | ![Language](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)             |
 
 ## Moderation
 
-| Name    | Description                             | Homepage                                          |
-| ------- | --------------------------------------- | ------------------------------------------------- |
-| Modmail | A feature-rich Modmail bot for Discord. | [kyb3r/modmail](https://github.com/kyb3r/modmail) |
+| Name    | Description                             | Homepage                                          | Language                                                                                                 |
+| ------- | --------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| Modmail | A feature-rich Modmail bot for Discord. | [kyb3r/modmail](https://github.com/kyb3r/modmail) | ![Language](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) |
 
 ## Music
 
-| Name     | Description                        | Homepage                                                |
-| -------- | ---------------------------------- | ------------------------------------------------------- |
-| MusicBot | A cross-platform Discord music bot | [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) |
+| Name     | Description                        | Homepage                                                | Language                                                                                                   |
+| -------- | ---------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| MusicBot | A cross-platform Discord music bot | [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) | ![Language](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
