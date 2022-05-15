@@ -9,7 +9,7 @@ A collection of open-source & self-hosted Discord bots.
 
 ## Table of Contents
 
-[Multi-purpose](/#Multi-purpose)
+[Multi-purpose](#Multi-purpose)
 
 ## Multi-purpose
 
