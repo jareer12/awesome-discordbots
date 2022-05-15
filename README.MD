@@ -5,11 +5,13 @@ A collection of open-source & self-hosted Discord bots.
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![](https://img.shields.io/travis/awesome-selfhosted/awesome-selfhosted/master?label=link%20checks)](https://github.com/jareer12/awesome-discordbots)
 
 <br>
-<br>
 
 ## Table of Contents
 
-[Multi-purpose](#Multi-purpose)
+[Multi-purpose](#Multi-purpose)<br>
+[Moderation](#Moderation)<br>
+[Music](#Music)<br>
+<br>
 
 ## Multi-purpose
 
