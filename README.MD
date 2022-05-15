@@ -15,7 +15,7 @@ A collection of open-source & self-hosted Discord bots.
 | Name    | Description                                    | Homepage                                                                    | Language                                                                                                                   |
 | ------- | ---------------------------------------------- | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | Egglord | A fully customizable bot built with discord.js | [Spiderjockey02/Discord-Bot](https://github.com/Spiderjockey02/Discord-Bot) | ![Language](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| Loritta | A fully customizable bot built with discord.js | [LorittaBot/Loritta](https://github.com/LorittaBot/Loritta)                 | ![Language](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)             |
+| Loritta | Yet another Discord bot                        | [LorittaBot/Loritta](https://github.com/LorittaBot/Loritta)                 | ![Language](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)             |
 
 ## Moderation
 
