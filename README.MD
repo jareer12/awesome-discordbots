@@ -9,6 +9,7 @@ A collection of open-source & self-hosted Discord bots.
 [Multi-purpose](#Multi-purpose)<br>
 [Moderation](#Moderation)<br>
 [Music](#Music)<br>
+[Giveaway](#Giveaway)<br>
 
 ## Multi-purpose
 
@@ -28,3 +29,9 @@ A collection of open-source & self-hosted Discord bots.
 | Name     | Description                        | Homepage                                                | Language                                                                                                   |
 | -------- | ---------------------------------- | ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
 | MusicBot | A cross-platform Discord music bot | [jagrosh/MusicBot](https://github.com/jagrosh/MusicBot) | ![Language](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
+
+## Giveaway
+
+| Name        | Description                                                  | Homepage                                                      | Language                                                                                                   |
+| ----------- | ------------------------------------------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| GiveawayBot | 🎉 Hold giveaways quickly and easily on your Discord server! | [jagrosh/GiveawayBot](https://github.com/jagrosh/GiveawayBot) | ![Language](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
