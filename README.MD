@@ -42,6 +42,6 @@ A collection of open-source & self-hosted Discord bots.
 
 ## Economy
 
-| Name  | Description                     | Homepage                                                          | Language                                                                                                   |
-| ----- | ------------------------------- | ----------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| Hydra | Very Simple Discord Economy Bot | [Brandon-The-Dev/Hydra](https://github.com/Brandon-The-Dev/Hydra) | ![Language](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) |
+| Name  | Description                     | Homepage                                                          | Language                                                                                                                   |
+| ----- | ------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
+| Hydra | Very Simple Discord Economy Bot | [Brandon-The-Dev/Hydra](https://github.com/Brandon-The-Dev/Hydra) | ![Language](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
